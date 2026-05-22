@@ -6,6 +6,6 @@
 
 <p>If third-party services such as Google Play Services are used, they may collect limited technical data according to their own privacy policies.</p>
 
-<p>Contact: youremail@example.com</p>
+<p>Contact: nasroayed07@gmail.com</p>
 
 <p>Last updated: May 2026</p>
